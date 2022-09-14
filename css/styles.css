@@ -790,6 +790,7 @@ ul {
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
   padding-left: 42px;
+  cursor: pointer;
   transition: border-color var(--transition-dur-func);
 }
 
@@ -837,6 +838,7 @@ ul {
   display: flex;
   align-items: center;
   margin-bottom: 30px;
+  justify-content: center;
 }
 
 .modal-form-own-checkbox {
